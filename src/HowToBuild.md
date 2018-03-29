@@ -29,6 +29,7 @@ originally forked from here:
 
 3. Also you may use GnuC (MinGW) and makefile_all_gcc.
 
-   Example: `mingw32-make -f makefile_all_gcc WIDE=1`  
+   Example: `mingw32-make -f makefile_all_gcc WIDE=1`
    ! This method was tested only for x86 builds.  
+   ! Tested only with ..........
    ! Still has several limitations due to lack of MinGW headers.
